@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @masmayji
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning web programming, specially in codeigniter framework
+- 🌱 I’m currently learning web programming, specifically in codeigniter framework
